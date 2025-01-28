@@ -1,4 +1,4 @@
-# Manhattan
+# Manhattan Restaurant
 
 **Manhattan** est un site vitrine de restaurant développé dans le cadre de ma formation en développement web full stack.  
 Le projet propose une carte interactive des menus, permettant aux utilisateurs de filtrer et d'interagir avec les éléments. 
